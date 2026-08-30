@@ -1,8 +1,8 @@
 # macos-menubar-restore
 
-Save a macOS menu bar and Control Center layout, then apply it on demand or at login.
+Save a macOS (created for 26.6.2 (25G83)) menu bar and Control Center layout, then apply it on demand or at login.
 
-On some versions of macOS, those customizations may not survive a restart. This copies the preference files into a local snapshot, writes them back, and reloads Control Center.
+On some versions of macOS, customizations may not survive a restart. This copies the preference files into a local snapshot, writes them back, and reloads Control Center.
 
 Optional: if [Stats](https://github.com/exelban/stats) is installed, its widget settings are included in the snapshot.
 
