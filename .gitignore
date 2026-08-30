@@ -1,0 +1,8 @@
+# Machine-specific preference snapshots
+snapshots/*
+!snapshots/.gitkeep
+
+# Local run log
+restore.log
+
+.DS_Store
